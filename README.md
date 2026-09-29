@@ -31,8 +31,12 @@
 
 ## About Me
 
-I'm a B.Tech Computer Science and Engineering student at Meerut Institute of Engineering & Technology (MIET), with a solid foundation in programming and hands-on experience building web projects. I enjoy solving problems, and I'm looking for internship or entry-level opportunities where I can apply my technical skills to real-world application development.
+Computer Science student at MIET with a solid background in C, Java, Python, and frontend web technologies. Strong analytical thinker with practical project experience in building interactive applications and responsive web designs.
 
+Dedicated to mastering Data Structures, Algorithms, and clean code practices. Seeking entry-level software engineering roles or internships to build real-world software solutions.
+
+Core Stack: Java | Python | JavaScript | HTML/CSS | Git & GitHub | DSA & OOP
+Contact: Vaibhavsirana8474@gmail.com | Khatauli, India
 ## Education
 
 - **B.Tech, Computer Science & Engineering** — Meerut Institute of Engineering & Technology (MIET), 2024 – Present
@@ -55,13 +59,7 @@ I'm a B.Tech Computer Science and Engineering student at Meerut Institute of Eng
 |---|---|---|
 | [Tic Tac Toe Game](https://github.com/vaibhavsirana8474/TIK_TAK_TOE) | Two-player interactive game with win/draw detection and an efficient turn-based system | HTML, CSS, JavaScript |
 | [Amazon Front Page Clone](https://github.com/vaibhavsirana8474/AMAZONE_CLONE) | Clone of the Amazon front page | HTML, CSS |
+| [Stone Paper Scissor Game](https://github.com/vaibhavsirana8474/STONE_PAPER_SCISSOR) | Interactive game with computer of win/loss detection | HTML, CSS, JavaScript |
 
-## GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vaibhavsirana8474&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f14&title_color=7dd3fc&icon_color=7dd3fc" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavsirana8474&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0f14&title_color=7dd3fc" alt="languages" />
-
-</div>
 
