@@ -60,6 +60,7 @@ Contact: Vaibhavsirana8474@gmail.com | Khatauli, India
 | [Tic Tac Toe Game](https://github.com/vaibhavsirana8474/TIK_TAK_TOE) | Two-player interactive game with win/draw detection and an efficient turn-based system | HTML, CSS, JavaScript |
 | [Amazon Front Page Clone](https://github.com/vaibhavsirana8474/AMAZONE_CLONE) | Clone of the Amazon front page | HTML, CSS |
 | [Stone Paper Scissor Game](https://github.com/vaibhavsirana8474/STONE_PAPER_SCISSOR) | Interactive game with computer of win/loss detection | HTML, CSS, JavaScript |
+| [git-repo-analyser](https://github.com/vaibhavsirana8474/git-activity-pulse) | An interactive developer analytics dashboard that connects to the GitHub REST API to assess commit activity patterns, sprint velocity, late-night crunch hours, and commit message sentiment | HTML, CSS, JavaScript, GitHub REST API |
 
 
 
