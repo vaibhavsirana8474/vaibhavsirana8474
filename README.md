@@ -47,7 +47,7 @@ Contact: Vaibhavsirana8474@gmail.com | Khatauli, India
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,python,java,js,html,css,git,github,vscode&theme=dark" alt="stack" />
+<img src="https://skillicons.dev/icons?i=c,python,java,js,html,css,react,git,github,vscode&theme=dark" alt="stack" />
 
 </div>
 
