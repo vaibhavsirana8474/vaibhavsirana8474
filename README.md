@@ -35,12 +35,12 @@ Computer Science student at MIET with a solid background in C, Java, Python, and
 
 Dedicated to mastering Data Structures, Algorithms, and clean code practices. Seeking entry-level software engineering roles or internships to build real-world software solutions.
 
-Core Stack: Java | Python | JavaScript | HTML/CSS | Git & GitHub | DSA & OOP
+Core Stack: Java | Python | JavaScript | HTML/CSS | Git & GitHub | React | DSA & OOP
 Contact: Vaibhavsirana8474@gmail.com | Khatauli, India
 ## Education
 
 - **B.Tech, Computer Science & Engineering** — Meerut Institute of Engineering & Technology (MIET), 2024 – Present
-- **CBSE Class XII** — Modern Public School, 2024 – 2025
+- **CBSE Class XII** — Modern Public School, 2023 – 2024
 - **CBSE Class X** — Modern Public School, 2022 – 2023
 
 ## Tech Stack
