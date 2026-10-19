@@ -55,13 +55,12 @@ Contact: Vaibhavsirana8474@gmail.com | Khatauli, India
 
 ## Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| [Mental Health Signal](https://github.com/vaibhavsirana8474/MENTAL_HEALTH_SCORE_PREDICTOR) | Machine Learning web app that analyzes daily habits, screen time, and stress levels to predict student wellness scores | Python, FastAPI, Scikit-Learn, HTML, CSS, JavaScript |
-| [Git-Repo-Analyser](https://github.com/vaibhavsirana8474/git-activity-pulse) | An interactive developer analytics dashboard that connects to the GitHub REST API to assess commit activity patterns, sprint velocity, late-night crunch hours, and commit message sentiment | HTML, CSS, JavaScript, GitHub REST API |
-| [Tic Tac Toe Game](https://github.com/vaibhavsirana8474/TIK_TAK_TOE) | Two-player interactive game with win/draw detection and an efficient turn-based system | HTML, CSS, JavaScript |
-| [Amazon Front Page Clone](https://github.com/vaibhavsirana8474/AMAZONE_CLONE) | Clone of the Amazon front page | HTML, CSS |
-| [Stone Paper Scissor Game](https://github.com/vaibhavsirana8474/STONE_PAPER_SCISSOR) | Interactive game with computer of win/loss detection | HTML, CSS, JavaScript |
-
+| Project | Description | Stack | Live Demo |
+|---|---|---|---|
+| [Mental Health Signal](https://github.com/vaibhavsirana8474/MENTAL_HEALTH_SCORE_PREDICTOR) | Machine Learning web app that analyzes daily habits, screen time, and stress levels to predict student wellness scores | Python, FastAPI, Scikit-Learn, HTML, CSS, JavaScript | [Live App](https://mental-health-score-predictor-1-b72d.onrender.com) |
+| [Git-Repo-Analyser](https://github.com/vaibhavsirana8474/git-activity-pulse) | An interactive developer analytics dashboard that connects to the GitHub REST API to assess commit activity patterns, sprint velocity, late-night crunch hours, and commit message sentiment | HTML, CSS, JavaScript, GitHub REST API | [Live App](https://git-activity-pulse.onrender.com) |
+| [Tic Tac Toe Game](https://github.com/vaibhavsirana8474/TIK_TAK_TOE) | Two-player interactive game with win/draw detection and an efficient turn-based system | HTML, CSS, JavaScript | — |
+| [Amazon Front Page Clone](https://github.com/vaibhavsirana8474/AMAZONE_CLONE) | Clone of the Amazon front page | HTML, CSS | — |
+| [Stone Paper Scissor Game](https://github.com/vaibhavsirana8474/STONE_PAPER_SCISSOR) | Interactive game with computer of win/loss detection | HTML, CSS, JavaScript | — |
 
 
